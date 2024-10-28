@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "ccfeb73289a1f973",
+    "type": "split",
+    "children": [
+      {
+        "id": "f06bff92cc640214",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71da614acc00a5bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pmconv/Group theory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5490cca047e9f40e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homeomorfismos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "495360945c5ada72",
+    "type": "split",
+    "children": [
+      {
+        "id": "110bed52aa7eb379",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2707e914faae599",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8917d1a83d741690",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aab0a35d76375359",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d6246aa49a3e64df",
+    "type": "split",
+    "children": [
+      {
+        "id": "190dde9c66e53afb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ffa1478f4a652a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Homeomorfismos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db71235d7e87302b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Homeomorfismos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8a9ef28906041fac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "543c56584b54800b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Homeomorfismos.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5490cca047e9f40e",
+  "lastOpenFiles": [
+    "topology",
+    "pmconv/Group theory.md",
+    "Homeomorfismos.md",
+    "pmconv/group equivariant convolution.md",
+    "pmconv/spherical cnn.md",
+    "Shape Spectrum.md",
+    "Conda env in MPCDF.md",
+    "Teserak.md",
+    "Setting vcode for cpp.md",
+    "PCA principal component anaysis CS229 andrew ng 10908e33984580ab8face332c7fac721.md",
+    "Pasted image 20241002190057.png",
+    "ice cap and journey of the souls.md",
+    "pmconv",
+    "pmconv/pm conv.md",
+    "pmconv/Equivariant Convolution.md",
+    "create a link.md",
+    "Welcome.md",
+    "2024-10-10.md",
+    "Untitled.canvas",
+    "Adaptive View Clustering.md",
+    "PCA.md",
+    "PCA principal component anaysis CS229 andrew ng 10908e33984580ab8face332c7fac721/image.png",
+    "PCA principal component anaysis CS229 andrew ng 10908e33984580ab8face332c7fac721",
+    "PCA principal component anaysis CS229 andrew ng/image.png",
+    "PCA principal component anaysis CS229 andrew ng"
+  ]
+}
